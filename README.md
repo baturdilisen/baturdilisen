@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baturdilisen
-- 👀 I’m interested in HTML, CSS and JavaScript currently.
-- 🌱 I’m currently learning HTML, CSS, JavaScript :p
+- 👀 I’m interested in HTML, CSS and iOS Development currently.
+- 🌱 I’m currently learning HTML, CSS and Swift :p
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me please mail to me hello@baturdilisen.com or call me by +90 5061126556
 
